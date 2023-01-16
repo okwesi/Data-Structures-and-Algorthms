@@ -60,5 +60,5 @@ queue.printQueue()
 queue.enqueue([45,5,7,9])
 queue.printQueue()
 queue.enqueue(["pass", "Fail", "yes"])
-queue.printStack()
+queue.printQueue()
             
